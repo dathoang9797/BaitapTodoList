@@ -1,0 +1,46 @@
+{
+    "compilerOptions": {
+        "baseUrl": "./",
+        "paths": {
+            "@components/*": [
+                "src/components/*"
+            ],
+            "@redux/*": [
+                "src/redux/*"
+            ],
+            "@assets/*": [
+                "src/assets/*"
+            ],
+            "@config/*": [
+                "src/config/*"
+            ],
+            "@hoc/*": [
+                "src/hoc/*"
+            ],
+            "@layouts/*": [
+                "src/layouts/*"
+            ],
+            "@routers/*": [
+                "src/routers/*"
+            ],
+            "@services/*": [
+                "src/services/*"
+            ],
+            "@shared/*": [
+                "src/shared/*"
+            ],
+            "@pages/*": [
+                "src/pages/*"
+            ],
+            "@models/*": [
+                "src/models/*"
+            ],
+            "@templates/*": [
+                "src/templates/*"
+            ],
+            "@utils/*": [
+                "src/utils/*"
+            ],
+        },
+    },
+}
